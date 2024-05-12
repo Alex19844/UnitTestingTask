@@ -11,4 +11,10 @@ Extend functionality by adding two more methods:
 2. determining the maximum number of consecutive identical digits
 
 For each method, write Unit Tests (use the NUnit, XUnit or MSTest framework is your choice; follow AAA and FIRST). When creating tests, pay special attention to equivalence classes.
+
+ ## Task Implementation
+
+ The "CountingStringChars" project has been modified by adding the "GetConsecutIdentLatinCount" and "GetConsecutIdentDigitsCount" methods to the ForMethods.cs file.
+ Unit Tests using NUnit framework for these methods have been added to the ForMethodsTests.cs file.
+ All functionality is implemented
  
