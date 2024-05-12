@@ -15,6 +15,8 @@ For each method, write Unit Tests (use the NUnit, XUnit or MSTest framework is y
  ## Task Implementation
 
  The "CountingStringChars" project has been modified by adding the "GetConsecutIdentLatinCount" and "GetConsecutIdentDigitsCount" methods to the ForMethods.cs file.
+ 
  Unit Tests using NUnit framework for these methods have been added to the ForMethodsTests.cs file.
+ 
  All functionality is implemented
  
